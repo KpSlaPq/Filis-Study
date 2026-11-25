@@ -1,11 +1,13 @@
-# Atelier Bordeaux
+# Filis Lernatelier
 
 Lern-Website für Technische Mechanik 1 (Statik), Kapitel 01 bis 06. Alles ist eine einzige Datei (`index.html`) ohne Server und ohne Abhängigkeiten. Der Fortschritt wird nur im Browser gespeichert (localStorage).
 
 ## Inhalt
+- **Klausurplan:** 2-Tage-Plan mit Pausen, abhakbaren Aufgaben und einstellbarem Klausurtermin
 - **Lernpfad:** Erklärungen, durchgerechnete Beispiele und Verständnisfragen
 - **Wiederholen:** Karteikarten mit Spaced Repetition
 - **Quiz, Formelsammlung, Fokus-Timer, Lernmethoden**
+- **Spiele:** Wippe (Momentengleichgewicht), Seilzug (Seilkräfte live), Freischneiden (Lagerreaktionen)
 
 ## Lokal öffnen
 `index.html` im Browser öffnen.
